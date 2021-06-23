@@ -15,3 +15,7 @@ This is a simple React project that you can create, delete, and sort your todo l
 3. HTML
 4. CSS
 5. Hook
+
+# Screenshot from the app
+![image](https://user-images.githubusercontent.com/47014132/123091120-a3b58380-d431-11eb-8ec1-fcf20ff8ec69.png)
+
